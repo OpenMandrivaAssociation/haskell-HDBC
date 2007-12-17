@@ -10,7 +10,6 @@ License: LGPL
 # darcs repos, nothing better
 Url: http://darcs.complete.org/hdbc-odbc/
 Source: %{module}-1.0.1.tar.gz
-BuildRoot: %_tmppath/%name-%version-%release-root
 BuildRequires: haskell(base)
 BuildRequires: haskell(mtl)
 BuildRequires: ghc
