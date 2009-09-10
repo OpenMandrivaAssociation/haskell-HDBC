@@ -3,7 +3,7 @@
 
 Name: haskell-%{module}
 Version: 1.0.1
-Release: %mkrel 4
+Release: %mkrel 5
 Summary: Haskell Database access 
 Group: Development/Other
 License: LGPL
